@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://github.com/dumpmatt/uploadedgifs/blob/main/newbanner.png?raw=true"  />
+  <img height="300" src="https://github.com/dumpmatt/uploadedgifs/blob/main/latestbanner.png?raw=true"  />
 </div>
 
 ###
@@ -9,6 +9,10 @@
 ###
 
 <p align="left">- 🚀 Exploring new technologies and programming languages<br>- 💬 Ask me about gaming please</p>
+
+###
+
+<img align="right" height="300" src="https://github.com/dumpmatt/uploadedgifs/blob/main/luffy_gear_5.gif?raw=true"  />
 
 ###
 
@@ -33,10 +37,6 @@
 ###
 
 <h3 align="left">Tech Stack:</h3>
-
-###
-
-<img align="right" height="150" src="https://github.com/dumpmatt/uploadedgifs/blob/main/luffy_gear_5.gif?raw=true"  />
 
 ###
 
