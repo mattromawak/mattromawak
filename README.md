@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 🚀 Exploring new technologies and programming languages<br>- 😄 Pronouns: he, him, his<br>- 💬 Ask me about gaming please</p>
+<p align="left">- 🚀 Exploring new technologies and programming languages<br>- 💬 Ask me about gaming please</p>
 
 ###
 
