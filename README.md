@@ -1,6 +1,6 @@
-<div align="center">
-  <img height="300" src="https://github.com/dumpmatt/uploadedgifs/blob/main/latestbanner.png?raw=true"  />
-</div>
+<p align="center">
+  <img style="max-width: 100%; height: auto;" src="https://github.com/dumpmatt/uploadedgifs/blob/main/latestbanner.png?raw=true"  />
+</p>
 
 ###
 
