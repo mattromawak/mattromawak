@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="300" src="https://github.com/dumpmatt/uploadedgifs/blob/main/luffy_gear_5.gif?raw=true"  />
+<img align="right" height="100" src="https://github.com/dumpmatt/uploadedgifs/blob/main/luffy_gear_5.gif?raw=true"/>
 
 ###
 
