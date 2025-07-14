@@ -8,7 +8,31 @@
 
 ###
 
-<p align="left">- 🚀 Exploring new technologies and programming languages<br>- 💬 Ask me about gaming please</p>
+<p align="left">
+  - 🚀 Exploring new technologies and programming languages<br>
+  - 💬 Looking forward to meeting new people<br>
+  - 🎮 Gamer by heart<br>
+  - 🧠 Constantly learning and building cool things<br>
+  - 🎨 Currently practicing visual content creation to improve my skills<br>
+  - ✨ Believer in community-driven growth
+</p>
+
+
+###
+
+<h3 align="left">My Deployed Projects:</h3>
+
+###
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://adastraea.vercel.app/" target="_blank">
+        <strong>Call of Duty Clan Website</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 
