@@ -31,6 +31,11 @@
         <strong>Call of Duty Clan Website</strong>
       </a>
     </td>
+    <td align="center">
+      <a href="https://marianiel.vercel.app/" target="_blank">
+        <strong>Personal Branding Website</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
